@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubDemo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="network_error">No internet connection</string>
+    <string name="connection_error">Content is not available</string>
+    <string name="login">Login</string>
+    <string name="empty_field_error">Cannot be empty</string>
+</resources>
